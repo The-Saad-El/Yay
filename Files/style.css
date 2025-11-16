@@ -43,10 +43,16 @@ footer h4{
     vertical-align: middle;
     font-size: 25px;
 }
+a{
+    text-decoration: none;
+    color: aliceblue;
+}
 #MadeBy{
+    color:azure;
     font-size: medium;
     font-family: 'Times New Roman', Times, serif;
 }
 #name:hover{
+    text-shadow: 2px 2px black;
     font-size: large;
 }
